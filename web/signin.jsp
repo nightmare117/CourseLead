@@ -21,7 +21,7 @@
 			<input type="text" placeholder="Username" name="username" required>
 			<input type="password" placeholder="Password" name="password" required>
 			<button type="submit">Sign In</button>
-                        <p>Don't have an account? <a class="signUpRef" href="signup.jsp">Sign Up</a></p>
+                        <p>Don't have an account? <a class="signUpRef" href="admin.jsp">Sign Up</a></p>
 		</form>
             </div>
             
